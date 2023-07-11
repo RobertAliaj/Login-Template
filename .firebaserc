@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-template-3a493": {
+      "hosting": {
+        "login-template": [
+          "login-template-3a493"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-template-3a493"
+  }
+}

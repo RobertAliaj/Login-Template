@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "login-template",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
